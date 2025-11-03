@@ -8,7 +8,7 @@ Two Pointers is a versatile technique used to solve a wide range of problems eff
 
 ---
 
-## 1. Two Pointers - Converging (Sorted Array Target Sum)
+##  [1. Two Pointers - Converging (Sorted Array Target Sum)](https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns/Two%20Pointer%20Patterns/Two%20Pointers%20-%20Converging)
 
 **Overview:**
 
@@ -31,7 +31,7 @@ Two Pointers is a versatile technique used to solve a wide range of problems eff
 
 ---
 
-## 2. Two Pointers - Fast & Slow (Cycle Detection)
+##  [2. Two Pointers - Fast & Slow (Cycle Detection)](https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns/Two%20Pointer%20Patterns/Two%20Pointers%20-%20Fast%20%26%20Slow)
 
 **Overview:**
 
@@ -54,7 +54,7 @@ Two Pointers is a versatile technique used to solve a wide range of problems eff
 
 ---
 
-## 3. Two Pointers - Fixed Separation (Nth Node from End)
+##  [3. Two Pointers - Fixed Separation (Nth Node from End)](https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns/Two%20Pointer%20Patterns/Two%20Pointers%20-%20Fixed%20Separation)
 
 **Overview:**
 
@@ -77,7 +77,7 @@ Two Pointers is a versatile technique used to solve a wide range of problems eff
 
 ---
 
-## 4. Two Pointers - In-place Array Modification
+## [4. Two Pointers - In-place Array Modification](https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns/Two%20Pointer%20Patterns/Two%20Pointers%3A%20In-place%20Array%20Modification)
 
 **Overview:**
 
@@ -103,7 +103,7 @@ Two Pointers is a versatile technique used to solve a wide range of problems eff
 
 ---
 
-## 5. Two Pointers - String Comparison with Backspaces
+##  [5. Two Pointers - String Comparison with Backspaces](https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns/Two%20Pointer%20Patterns/Two%20Pointers%3A%20String%20Comparison%20with%20Backspaces)
 
 **Overview:**
 
@@ -125,7 +125,7 @@ Two Pointers is a versatile technique used to solve a wide range of problems eff
 
 ---
 
-## 6. Two Pointers - Expanding From Center (Palindromes)
+##  [6. Two Pointers - Expanding From Center (Palindromes)](https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns/Two%20Pointer%20Patterns/Two%20Pointers%3A%20Expanding%20From%20Center%20(Palindromes))
 
 **Overview:**
 
@@ -148,7 +148,7 @@ Two Pointers is a versatile technique used to solve a wide range of problems eff
 
 ---
 
-## 7. Two Pointers - String Reversal
+##  [7. Two Pointers - String Reversal](https://github.com/dev-nzm99/dsalgo-lib/tree/main/all_DSA_patterns/Two%20Pointer%20Patterns/Two%20Pointers%3A%20String%20Reversal%20Subpattern)
 
 **Overview:**
 
