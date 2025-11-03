@@ -1,5 +1,12 @@
 # Two Pointers Pattern: Fast & Slow (Cycle Detection)
 
+<p align="left">
+  <a href="https://www.geeksforgeeks.org/dsa/how-does-floyds-slow-and-fast-pointers-approach-work/" target="_blank">
+    <img src="https://img.shields.io/badge/How%20this%20approach%20work%3F-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46&color=4CAF50" alt="How this approach work?" />
+  </a>
+</p>
+
+
 ## 1. Pattern Overview
 
 Imagine you and a friend are walking around a circular track. You start together, but your friend walks twice as fast as you. If the track is a perfect circle and you both keep walking, eventually, your friend will lap you and catch up again. But if the track is a straight line, your friend will just keep getting farther ahead and never meet you again. This is the heart of the Fast & Slow Pointers (also called the "Tortoise and Hare") cycle detection pattern.
