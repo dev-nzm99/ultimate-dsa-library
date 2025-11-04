@@ -6,6 +6,8 @@ Imagine you’re organizing a bookshelf. Some books need to be removed or moved,
 
 In coding, this pattern is used to **remove, move, or filter elements** in an array without using extra memory. One pointer scans the array while another pointer marks where the next “good” element should go. Sometimes, two pointers start from opposite ends to partition elements.
 
+Why is this useful? In real-world applications, memory is precious. Imagine working on a mobile device or processing huge datasets—copying data wastes time and space. The two pointers pattern lets you efficiently "slide" or "swap" elements, much like two hands working together to sort cards in a single pass.
+
 You'll see this pattern in problems like:
 
 * Removing duplicates from a sorted array
