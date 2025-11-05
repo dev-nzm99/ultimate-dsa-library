@@ -7,6 +7,11 @@ Imagine you’re looking through a long train, and you want to examine every gro
 In programming, this pattern is like using a window of a set size (say, 3 elements) that "slides" over an array or data stream. At each step, you examine only the elements inside the window, perform some calculation (like sum, average, or max), and then move the window one step forward.
 
 
+<p align="center">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Sliding_window.png" width="700">
+</p>
+
+
 ### When is this useful?
 
 * To process or analyze every contiguous subarray of a fixed length.
