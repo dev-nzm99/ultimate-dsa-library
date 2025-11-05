@@ -30,7 +30,7 @@ It works by moving two pointers through a sequence at different speeds:
 Because the fast pointer moves quicker, it eventually “laps” or meets the slow pointer if there’s a loop (cycle).
 
 <div align="center">
-  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Screenshot%202025-11-01%20115407.png" alt="Banner" width="100%" />
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Screenshot%202025-11-01%20115407.png" alt="Banner" width="600" />
 </div>
 
 
