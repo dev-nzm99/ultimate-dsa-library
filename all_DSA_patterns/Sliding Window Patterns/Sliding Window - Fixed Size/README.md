@@ -48,7 +48,8 @@ Array: `[2, 3, 5, 7, 11, 13]`, window size `k = 3`:
 
 * **Naive approach:** Sum all k elements for each window → O(n*k)
 * **Sliding window:** Subtract leaving element, add new element → O(n)
-* Analogy: Reading book page by page vs re-reading the whole book for each page.
+
+> Analogy: Reading book page by page vs re-reading the whole book for each page.
 
 ### Time and Space Complexity
 
