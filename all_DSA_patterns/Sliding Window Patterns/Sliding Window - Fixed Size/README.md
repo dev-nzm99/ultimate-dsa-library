@@ -19,7 +19,8 @@ In programming, this pattern is like using a window of a set size (say, 3 elemen
 
   * Maximum average temperature over any 7-day period.
   * Most frequent word in every 100-word segment of a book.
-* Analogy: A moving magnifying glass that always covers 3 words in a sentence. You read those 3, then move the glass one word forward, and repeat.
+
+> Everyday analogy: A moving magnifying glass that always covers 3 words in a sentence. You read those 3, then move the glass one word forward, and repeat.
 
 ### Why use it?
 
