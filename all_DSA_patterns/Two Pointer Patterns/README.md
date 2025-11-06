@@ -3,7 +3,7 @@
 Two Pointers is a versatile technique used to solve a wide range of problems efficiently, particularly those involving arrays, strings, or linked lists. This overview categorizes the most common two pointer sub-patterns, their core ideas, and when to apply them.
 
 <p align="center">
-  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Screenshot%202025-11-03%20095609.png" alt="Two Pointer Illustration">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Screenshot%202025-11-03%20095609.png" alt="Two Pointer Illustration" width = "90%">
 </p>
 
 ---
