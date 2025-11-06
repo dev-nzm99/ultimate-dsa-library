@@ -7,7 +7,7 @@ Think of intervals as colored blocks on a timeline. Sometimes, these blocks over
 
 
 <p align="center">
-  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Overlapping%20Intervals.png" width="100%">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Overlapping%20Intervals.png" width="90%">
 </p>
 
 This pattern is incredibly useful in real-world scenarios:
