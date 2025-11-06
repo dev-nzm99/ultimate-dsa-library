@@ -5,6 +5,11 @@ Imagine you’re a conference organizer with a list of talks, each with a start 
 
 Think of intervals as colored blocks on a timeline. Sometimes, these blocks overlap, and you want to merge them into a single block (like combining overlapping appointments into one). Other times, you want to find gaps (like free time between meetings), or figure out the minimum number of rooms needed so that no two overlapping events share a room.
 
+
+<p align="center">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Overlapping%20Intervals.png" width="100%">
+</p>
+
 This pattern is incredibly useful in real-world scenarios:
 
 - Calendar apps merging overlapping meetings.
