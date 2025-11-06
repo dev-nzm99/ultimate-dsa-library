@@ -119,7 +119,7 @@ Array: `[1, 2, 3, 4, 5]`, window size = 3
 
 3. **Maximum Sum of Subarray of Size K**
 
-   * [GFG Link](https://practice.geeksforgeeks.org/problems/max-of-all-subarrays-of-size-k3101/1)
+   * [GFG Link](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
 
 4. **Longest Subarray with Ones after Replacement**
 
