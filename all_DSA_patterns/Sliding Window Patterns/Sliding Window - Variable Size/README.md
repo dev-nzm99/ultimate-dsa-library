@@ -58,3 +58,32 @@ Let’s build a mental model for tackling these problems:
 
 ### Example
 In the **“Fruit Into Baskets”** problem, you want the longest subarray with at most 2 types of fruit. As you walk through the array, you add fruit types to your basket (hash map). If you pick up a third type, you remove fruit from the left until you’re back to two types.
+
+## PRACTICE PROBLEMS
+
+Here are some classic LeetCode problems using the **Variable Size Sliding Window** pattern:
+
+1. **Longest Substring Without Repeating Characters**
+   - Find the length of the longest substring without repeating characters.
+   - [LeetCode Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+2. **Substring with At Most K Distinct Characters**
+   - Given a string, find the length of the longest substring that contains at most `k` distinct characters.
+   - [LeetCode Link](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+
+3. **Minimum Window Substring**
+   - Given two strings `s` and `t`, find the minimum window in `s` which will contain all the characters in `t`.
+   - [LeetCode Link](https://leetcode.com/problems/minimum-window-substring/)
+
+4. **Permutation in String**
+   - Given two strings `s1` and `s2`, return `true` if `s2` contains a permutation of `s1`.
+   - [LeetCode Link](https://leetcode.com/problems/permutation-in-string/)
+
+5. **Longest Subarray with At Most K Distinct Integers**
+   - Find the length of the longest subarray with at most `k` distinct integers.
+   - [LeetCode Link](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-integers/)
+
+---
+
+The **Variable Size Sliding Window** pattern is an incredibly efficient and powerful technique for solving problems that involve finding subarrays or substrings that satisfy certain conditions. By maintaining a dynamic window that grows or shrinks based on specific criteria, this pattern allows you to optimize the process of exploring all possible subarrays without unnecessary recomputation. With practice, this pattern will become a vital tool in your problem-solving toolkit, especially for solving optimization problems related to arrays and strings.
+
