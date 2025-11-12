@@ -1,5 +1,5 @@
 # DSA Pattern Mastery
-<p align="right">
+<p align="left">
   <a href="https://github.com/dev-nzm99">
     <img src="https://img.shields.io/badge/Prepared by-Nazmul%20Islam-blue?style=for-the-badge" />
   </a>
