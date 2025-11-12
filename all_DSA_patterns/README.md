@@ -1,4 +1,9 @@
 # DSA Pattern Mastery
+<p align="right">
+  <a href="https://github.com/dev-nzm99">
+    <img src="https://img.shields.io/badge/Author-Nazmul%20Islam-blue?style=for-the-badge" />
+  </a>
+</p>
 
 
 Mastering Data Structures and Algorithms requires not just solving problems, but recognizing **patterns** that help you tackle any challenge efficiently.  
