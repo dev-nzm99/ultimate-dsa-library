@@ -1,9 +1,10 @@
 # Prefix Sum Pattern: Simple 1D Array
 
-🟦 **PATTERN OVERVIEW**  
-Imagine you’re keeping track of the daily rainfall for a month. Instead of adding the rain for each day every time you want the total for a week, you precompute cumulative totals. This is the essence of the **Prefix Sum** pattern.
+ ### 1.Pattern Overview
+ 
+Imagine you’re working on a problem that requires frequent range sum queries, like calculating the sum of elements between two indices in an array. A naive approach would be to recalculate the sum each time, leading to inefficiencies.
 
-A **prefix sum array** stores cumulative sums of elements up to each index. It allows you to efficiently calculate the sum of any subarray in **O(1) time** after an initial **O(n) preprocessing** step.
+What if we could precompute values to speed up these queries? That’s where the Prefix Sum Design Pattern comes in! It’s a powerful technique that optimizes range-based calculations, making them much faster.
 
 **Use Cases:**  
 - Subarray sum queries  
@@ -13,7 +14,7 @@ A **prefix sum array** stores cumulative sums of elements up to each index. It a
 
 ---
 
-🟦 **CORE CONCEPTS**  
+### 2.Core Concepts  
 
 1. **Definition:**  
 For an array `arr` of length `n`, the prefix sum array `prefix` is defined as:  
@@ -38,7 +39,7 @@ sum(0, r) = prefix[r] (if l = 0)
 
 ---
 
-🟦 **IMPLEMENTATION APPROACH**  
+### 3.Implementation Approach
 
 **Step-by-Step:**  
 1. Initialize prefix array of size `n`.  
