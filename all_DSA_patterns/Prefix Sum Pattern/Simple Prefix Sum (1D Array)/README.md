@@ -10,8 +10,13 @@ What if we could precompute values to speed up these queries? That’s where the
 
 The Prefix Sum is a precomputed array that helps in quickly answering range sum queries. The idea is simple:
 
-Construct a prefix sum array, where each element at index i stores the sum of all elements from index 0 to i.
-Once this array is built, any subarray sum query can be computed in constant time O(1) instead of O(n).
+- Construct a prefix sum array, where each element at index i stores the sum of all elements from index 0 to i.
+- Once this array is built, any subarray sum query can be computed in constant time O(1) instead of O(n).
+
+<p align="center">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Prefix_sum%20pattern.png" width="700">
+</p>
+
 
 **Use Cases:**  
 - Subarray sum queries  
