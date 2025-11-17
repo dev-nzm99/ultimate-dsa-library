@@ -14,7 +14,7 @@ The Prefix Sum is a precomputed array that helps in quickly answering range sum 
 - Once this array is built, any subarray sum query can be computed in constant time O(1) instead of O(n).
 
 <p align="center">
-  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Prefix_sum%20pattern.png" width="700">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250728130425585189/412034878.webp" width="700">
 </p>
 
 
