@@ -62,13 +62,13 @@ sum(0, r) = prefix[r] (if l = 0)
 
 ---
 
-🟦 **PRACTICE PROBLEMS**  
+## **PRACTICE PROBLEMS**  
 
 1. **Range Sum Query - Immutable** – Implement prefix sum for range queries.  
    [LeetCode Link](https://leetcode.com/problems/range-sum-query-immutable/)  
 
-2. **Maximum Subarray Sum** – Use prefix sum to find maximum subarray efficiently.  
-   [LeetCode Link](https://leetcode.com/problems/maximum-subarray/)  
+2. **Subarray Sum Equals K**.  
+   [LeetCode Link](https://leetcode.com/problems/subarray-sum-equals-k/description/)  
 
 3. **Subarray Sum Equals K** – Count subarrays with a given sum using prefix sum + hashmap.  
    [LeetCode Link](https://leetcode.com/problems/subarray-sum-equals-k/)  
