@@ -67,13 +67,10 @@ sum(0, r) = prefix[r] (if l = 0)
 1. **Range Sum Query - Immutable** – Implement prefix sum for range queries.  
    [LeetCode Link](https://leetcode.com/problems/range-sum-query-immutable/)  
 
-2. **Subarray Sum Equals K**.  
-   [LeetCode Link](https://leetcode.com/problems/subarray-sum-equals-k/description/)  
-
-3. **Subarray Sum Equals K** – Count subarrays with a given sum using prefix sum + hashmap.  
+2. **Subarray Sum Equals K** – Count subarrays with a given sum using prefix sum + hashmap.  
    [LeetCode Link](https://leetcode.com/problems/subarray-sum-equals-k/)  
 
-4. **Running Sum of 1d Array** – Compute running totals directly.  
+3. **Running Sum of 1d Array** – Compute running totals directly.  
    [LeetCode Link](https://leetcode.com/problems/running-sum-of-1d-array/)  
 
 ---
