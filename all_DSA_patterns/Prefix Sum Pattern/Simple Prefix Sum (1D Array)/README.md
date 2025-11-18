@@ -73,7 +73,7 @@ sum(0, r) = prefix[r] (if l = 0)
 3. **Running Sum of 1d Array** – Compute running totals directly.  
    [LeetCode Link](https://leetcode.com/problems/running-sum-of-1d-array/)
 
-3. ** Number of Ways to Split Array**   
+3. **Number of Ways to Split Array**   
    [LeetCode Link](https://leetcode.com/problems/number-of-ways-to-split-array/description/)  
 
 ---
