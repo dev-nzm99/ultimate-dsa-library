@@ -30,6 +30,11 @@ Think of tracking your **bank account balance** over days. Each day you note you
 By comparing differences between balances on two days, you can answer this without recalculating every transaction.  
 The hash map is your **logbook of past balances**.
 
+<p align="center">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/Prefix%20sum%2Bhash%20map.png" width="700">
+</p>
+
+
 ---
 
 ## 2. Core Concepts  
