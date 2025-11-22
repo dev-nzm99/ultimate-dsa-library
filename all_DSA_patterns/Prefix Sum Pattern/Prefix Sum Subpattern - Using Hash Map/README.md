@@ -387,27 +387,33 @@ Once this is clear, your implementation becomes a direct application of one of t
 
 ## 8. Practice Problems  
 
-Here are some classic problems where this pattern shines:
+### Basics
+- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 
-1. **Subarray Sum Equals K**  
-   - Count subarrays whose sum equals `K`.  
-   - (LeetCode: `Subarray Sum Equals K`)
+### Counting Problems
+- [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+- [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
 
-2. **Continuous Subarray Sum**  
-   - Check if there exists a subarray of size at least 2 whose sum is divisible by `K`.
+### Bitmask Variants
+- [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)
+- [1371. Longest Substring with Vowels in Even Counts](https://leetcode.com/problems/longest-substring-with-vowels-in-even-counts/)
 
-3. **Longest Subarray With Sum K**  
-   - Find the maximum length of a subarray with sum `K`.  
-   - (Variants appear on multiple platforms.)
+### Longest Subarray
+- [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+- [325. Maximum Size Subarray Sum Equals K](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
 
-4. **Zero-Sum Subarrays / Longest Zero-Sum Subarray**  
-   - Count or find longest subarray whose sum is 0.
+### Tricky Variations
+- [1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+- [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-5. **Subarrays With Sum Divisible by K**  
-   - Count how many subarrays have sum divisible by `K`.
+### Check If Subarray Exists
+- [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+- [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/)
 
-6. **Binary Array: Longest Subarray With Equal 0s and 1s**  
-   - Trick: treat `0` as `-1`, then look for longest subarray with sum `0`.
+### Advanced Challenges
+- [1542. Longest Awesome Substring](https://leetcode.com/problems/longest-awesome-substring/)
+- [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 
 ---
 
