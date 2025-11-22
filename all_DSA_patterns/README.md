@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/0_G0Afl1UVC22UfcAm.webp" width="500">
+  <img src="https://github.com/dev-nzm99/DSA-Pathshala/blob/main/src/img/0_G0Afl1UVC22UfcAm.webp" width="400">
 </p>
 </p>
 
