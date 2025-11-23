@@ -400,6 +400,8 @@ Once this is clear, your implementation becomes a direct application of one of t
 - [1371. Longest Substring with Vowels in Even Counts](https://leetcode.com/problems/longest-substring-with-vowels-in-even-counts/)
 
 ### Longest Subarray
+- [Longest Subarray with Sum K (GFG)](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+- [Minimum Removals for Target Sum (GFG)](https://www.geeksforgeeks.org/problems/minimum-removals-for-target-sum/1)
 - [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [325. Maximum Size Subarray Sum Equals K](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
 
